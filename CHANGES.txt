@@ -1,0 +1,56 @@
+CHANGES
+
+May 10th 2024  8 PM
+- fixed the timer to actually work (yiipe)
+- added data to all tables to make stuff print
+for now, only tomato appears when clicking on recipe, but the others dont
+- changed properties to some databases. This includes:
+quantity is now set to VarChar since we can have some recipes where the quantity is up to the user ("Choose your amount for your taste")
+- Variables like ingredient name or recipe name now have the property of "UNIQUE" so that you can't have the same ingredient twice or recipe
+
+-Debugging with the command: DBCC CHECKIDENT ('Ingredient', RESEED, 1);
+this basically forces the sql to create  ID number of whatever is in the 3rd parameter. (if record 4 is deleted including ID 4)
+Usually it will just skip and continue counting to id 500 or whatever. this reseeding forces it to re create the id. you do have to manually
+go to the right id tho with the reseeding if you want it to work normally
+
+
+MAY 10th 2024 10PM:
+
+OMGMOGMOMGOGMOGMGOM FINALLY GOT THIS SHIT TO WORK
+- Now shows the ingredients of recipes when clicked on the listbox
+-Dataset has been updated to show the relationship between recipeINgredient and Recipe tables (it used to only show between recipe INgredient and INgredient
+
+MAY 10th 2024 11PM:
+-Steps are now shown and ingredients display the quantities as well
+- glitch patched about the blue bar not completly shwoing sometimes.
+
+MAY 11th 2024:
+Creation page is fully finished. 
+One problem would be to find a way to incorporate a relative path.
+Right now it is being hardcoded to my system's path's base database. the reason why the data doesnt save was because 
+it would save it in the debug databse and not the base one
+
+MAY 13th 2024
+- Overview design for creation and view page
+
+MAY 13th 2024 3PM
+
+- added a modify form
+
+MAY 14th 2024 
+- globalization added
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\ 
+
+
+MAY 15th 2024
+- Modification page ended. Globalization only is left. May have to add more features tho
+
+-May 15th 2024 2:30 AM
+_ Project is now done in developpement. 
+
+
+Future Enhancements:
+Make the steps auto re order when the user deletes a middle ground step
+Make more language compatability and add Data grid view comptatibility with languages
+
+

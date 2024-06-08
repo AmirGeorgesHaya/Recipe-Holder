@@ -1,0 +1,251 @@
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipe.mdf
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipe_log.ldf
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+C:\Users\2268017\Desktop\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipe.mdf
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipe_log.ldf
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.resources
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+C:\Users\2286756\Downloads\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.TimeDisplayForm.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\es-US\Recipes Library.resources.dll
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\fr-CA\Recipes Library.resources.dll
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\es-US\Recipes Library.resources.dll
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\fr-CA\Recipes Library.resources.dll
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.en-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\en-CA\Recipes Library.resources.dll
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\en-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\es-US\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\fr-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\en-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.TimeDisplayForm.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.en-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\es-US\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\fr-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\en-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.en-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.en-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.es-US.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.fr-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.en-CA.resources
+C:\Users\amirg\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\en-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\es-US\Recipes Library.resources.dll
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\fr-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.TimeDisplayForm.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.en-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.en-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.en-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.en-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.es-US.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.fr-CA.resources
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\en-CA\Recipes Library.resources.dll
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\es-US\Recipes Library.resources.dll
+C:\Users\amirg\Documents\Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\fr-CA\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\en-CA\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\es-US\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\fr-CA\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.TimeDisplayForm.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.en-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.en-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.en-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.en-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.es-US.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.fr-CA.resources
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\en-CA\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\es-US\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\fr-CA\Recipes Library.resources.dll
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+E:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe.config
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.exe
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\Recipes Library.pdb
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\en-CA\Recipes Library.resources.dll
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\es-US\Recipes Library.resources.dll
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\bin\Debug\fr-CA\Recipes Library.resources.dll
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.AssemblyReference.cache
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.SuggestedBindingRedirects.cache
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.Properties.Resources.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.TimeDisplayForm.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.en-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.en-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.en-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.en-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.es-US.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ViewForm.fr-CA.resources
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.GenerateResource.cache
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.csproj.CoreCompileInputs.cache
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\en-CA\Recipes Library.resources.dll
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\es-US\Recipes Library.resources.dll
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\fr-CA\Recipes Library.resources.dll
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.exe
+D:\Semester3\AppDev\Project\AppDev-Project\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes Library.pdb
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.en-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.CreationForm.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.IngredientInputDialog.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.en-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.ModifyForm.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.RecipeLibraryForm.en-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StepInputDialog.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.StopwatchUserForm.fr-CA.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.es-US.resources
+C:\Users\2286756\Documents\AppDev-Project\Recipes Library\Recipes Library\obj\Debug\Recipes_Library.UnitInputDialog.fr-CA.resources
